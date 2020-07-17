@@ -5,3 +5,4 @@ opencv-python
 sklearn
 tensorflow==1.14
 pandas
+pillow
